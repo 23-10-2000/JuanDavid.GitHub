@@ -1,6 +1,6 @@
 # JuanDavid.GitHub
 
-Informcion:
+Informacion:
 Nombre: Juan David Murcia Hernandez
 Edad: 23 años
 Carrera: Ingenieria de Sistemas
